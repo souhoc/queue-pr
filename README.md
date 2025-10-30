@@ -8,8 +8,9 @@ A PR may stay open for too long.
 ## How to fix it?
 
 ## Install
+```sh
 go install github.com/souhoc/queue-pr@latest
-
+```
 ## Usage
 ```sh
 queue-pr -org <org> -token <token> 
